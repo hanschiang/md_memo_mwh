@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m "page update"
+git commit -m "quick update"
 git push origin master
