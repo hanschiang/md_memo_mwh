@@ -1,9 +1,7 @@
 # Some Notes
 
-# Ubuntu
 
-## vim
-
+# vim
 ### NERDTree
 
 - https://github.com/scrooloose/nerdtree
