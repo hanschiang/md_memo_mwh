@@ -31,6 +31,7 @@
 - 簡單記帳的web app，python
 - blog/台灣網路紅人名錄（我有follow的）
 - 書法雜記
+- Age of Shopping
 
 
 ### 20160529 Sun
