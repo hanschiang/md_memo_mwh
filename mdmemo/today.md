@@ -9,6 +9,7 @@
 小朋友的哲學大哉問 http://www.books.com.tw/products/0010713276
 肌膚之侵(電影書封版) http://www.books.com.tw/products/0010640135
 
+Python Game Development https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB1l23YFY137LtPcstXKyuQ
 
 JavaScript
 
